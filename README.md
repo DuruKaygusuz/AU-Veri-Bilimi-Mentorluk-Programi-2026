@@ -14,6 +14,10 @@ Bu depo, 2026 yılı Veri Bilimi ve Makine Öğrenmesi Mentorluk Programı'nın 
 2.  **Ödev Teslimi:** Ödevler Python/Jupyter Notebook formatında `02_Mentiler/[ad_soyad]/hafta_XX` klasörüne yüklenir.
 3.  **PR Süreci:** Ödevler yüklendikten sonra bir Pull Request açılır ve mentorlar tarafından incelenir.
 
+## Mentor Takip Tablosu
+Program ilerleyişini ve ödev durumlarını aşağıdaki tablo üzerinden takip edebilirsiniz:
+👉 [Veri Bilimi Mentorluk Takip Tablosu](https://docs.google.com/spreadsheets/d/1RenvYhfVmi4zWIHqjgsxBM78dB1qmi6Q/edit?usp=sharing)
+
 ## Motivasyon ve Hedefler
 
 Programı başarıyla tamamlayan katılımcılar:

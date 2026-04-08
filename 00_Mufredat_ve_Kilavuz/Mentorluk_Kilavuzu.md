@@ -7,7 +7,7 @@ Veri Bilimi topluluğumuzun 16 haftalık mentor-menti programında sizlerle birl
 
 ## Program İşleyişi
 1. Her hafta eğitimlerden belirlenen modülleri izleyecek ve uygulayacağız.
-2. Sürecinizi, gelişiminizi ve görevlerinizi özel bir Excel tablosu üzerinden takip edeceğim.
+2. Sürecinizi, gelişiminizi ve görevlerinizi [buradaki özel E-Tablo üzerinden](https://docs.google.com/spreadsheets/d/1RenvYhfVmi4zWIHqjgsxBM78dB1qmi6Q/edit?usp=sharing) takip edeceğim.
 3. Öğrendiklerinizi dökümante etmeniz ve kendi kod pratiğinizi yapmanız en büyük beklentim.
 4. Haftalık düzenli toplantılarımızda durum değerlendirmesi yapıp, kodların mantığını tartışacağız.
 
